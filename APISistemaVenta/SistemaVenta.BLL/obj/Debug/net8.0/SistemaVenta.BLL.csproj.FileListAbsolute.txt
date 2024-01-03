@@ -1,0 +1,44 @@
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.BLL.deps.json
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.BLL.dll
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.BLL.pdb
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.AssemblyInfo.cs
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.sourcelink.json
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.dll
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\refint\SistemaVenta.BLL.dll
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.pdb
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\ref\SistemaVenta.BLL.dll
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.DAL.dll
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.DTO.dll
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Model.dll
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Utility.dll
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.DAL.pdb
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.DTO.pdb
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Model.pdb
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Utility.pdb
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:\Users\Maghi\source\repos\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.csproj.CopyComplete
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.BLL.deps.json
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.BLL.dll
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.BLL.pdb
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.DAL.dll
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.DTO.dll
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Model.dll
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Utility.dll
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.DAL.pdb
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.DTO.pdb
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Model.pdb
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Utility.pdb
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.AssemblyInfo.cs
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.sourcelink.json
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.csproj.CopyComplete
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.dll
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\refint\SistemaVenta.BLL.dll
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.pdb
+C:\Users\Maghi\source\repos\Sistema de Venta - Angular 16 - .NET 8\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\ref\SistemaVenta.BLL.dll

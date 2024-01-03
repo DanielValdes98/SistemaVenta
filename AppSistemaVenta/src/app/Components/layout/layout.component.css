@@ -1,0 +1,8 @@
+.sideOption {
+    display: flex;
+    align-items: center;
+}
+
+.sideOption mat-icon {
+    margin-right: 20px;
+}
